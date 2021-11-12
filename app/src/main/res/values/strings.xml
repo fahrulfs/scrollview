@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">scrollView</string>
+    <string name="article_title">MEMBUAT SCROLL VIEW DI ANDROID STUDIO</string>
+    <string name="article_subtitle">Belajar Scrollview </string>
+    <string name="article_text"><b>Apa itu Scroll view ?</b>\n\n
+Scrolling text dapat mendemonstrasikan ScrollView komponen UI. ScrollView
+merupakan view grup yang dalam contoh kali ini terdiri dari beberapa textView.
+Menampilkan barisan text yang panjang (dalam kasus ini), list musik album dan
+komponen view lain dimana user dapat melihatnya dengan menggeser layar
+keatas atau kebawah. Aplikasi android dapat menggunakan format text dengan tag
+HTML untuk mengatur tebal atau miring dan menambahkan baris atau paragraf.
+Selain itu dapat pula disisipi sebuah text link yang menuju ke halaman website
+tertentu.\n\n<b>Contoh Scroll View Secara Horizontal </b>\n\n
+    </string>
+ <string name="dummy_text">
+<b>Menambahkan Active Link </b>\n\n
+     It is certainly the most famous placeholder text even if there are different versions distinguishable from the order in which the Latin words are repeated.https://developer.android.com/studio\n\nLorem ipsum dolor sit amet .The graphic and typographic operators know this well, in reality all the professions dealing with the universe of communication have a stable relationship with these words, but what is it?
+
+     Lorem ipsum is a dummy text without any sense. It is a sequence of Latin words that, as they are positioned, do not form sentences with a complete sense, but give life to a test text useful to fill spaces that will subsequently be occupied from ad hoc texts composed by communication professionals.\n\n
+ </string>
+<string name="comment">Add Comment</string>
+</resources>
